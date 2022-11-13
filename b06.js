@@ -1,3 +1,4 @@
+/*Đổi giờ*/
 let readline = require('readline-sync');
 let a = Number(readline.question('Nhap so giay:  ')); 
 let hour = a / 3600;
